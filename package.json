@@ -1,6 +1,6 @@
 {
   "name": "@balena/variable-substitution",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Tiny, shell-like, template syntax for variable substitution in strings",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -45,5 +45,8 @@
   },
   "dependencies": {
     "typed-error": "^3.2.1"
+  },
+  "versionist": {
+    "publishedAt": "2022-09-21T16:04:52.168Z"
   }
 }
